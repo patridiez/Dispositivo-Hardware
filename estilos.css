@@ -1,0 +1,60 @@
+header{
+
+  background-color: #88bec8;
+  text-align: center;
+ }
+
+ header img{
+  text-align: center;
+ }
+
+nav{
+  display: flex;
+  justify-content: center;
+}
+
+ h2{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(216, 237, 244);
+ }
+
+ .imagen{
+  display: flex;
+ }
+
+ h3{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(216, 237, 244);
+ }
+
+ main{
+  text-align: center;
+ }
+
+ footer{
+  background-color: beige;
+  margin-left: 30px;
+  margin-right: 300px;
+ }
+
+ h4{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(238, 244, 245);
+ }
+
+ li{
+  display: inline; /* Hacemos que todos los 'li' aparezcan en horizontal*/
+  padding-right: 1em; /* Separación elemento-borde*/
+  border-right: 2px solid rgb(183, 27, 144); /* Borde derecho con una raya*/
+}
+
+nav a {
+  color: rgb(183, 27, 144);
+}
+
+
+ 
+
